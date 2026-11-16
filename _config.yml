@@ -1,0 +1,6 @@
+title: "apex-dsh-our-free-model"
+description: "Official architecture documentation and production specifications for apex-dsh-our-free-model"
+lang: en-US
+exclude:
+  - node_modules
+  - .git

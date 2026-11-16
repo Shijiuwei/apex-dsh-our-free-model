@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>apex-dsh-our-free-model</title>
+  <subtitle>Official architecture documentation and production specifications for apex-dsh-our-free-model</subtitle>
+  <link href="https://Shijiuwei.github.io/apex-dsh-our-free-model/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/apex-dsh-our-free-model/</id>
+  <updated>2026-11-16T20:20:55.680210300+00:00</updated>
+  <entry>
+    <title>apex-dsh-our-free-model Architecture Overview</title>
+    <link href="https://Shijiuwei.github.io/apex-dsh-our-free-model/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/apex-dsh-our-free-model/docs/architecture.html</id>
+    <updated>2026-11-16T20:20:55.680210300+00:00</updated>
+    <summary>Official architecture documentation and production specifications for apex-dsh-our-free-model</summary>
+  </entry>
+  <entry>
+    <title>SDK &amp; Integration Guide</title>
+    <link href="https://Shijiuwei.github.io/apex-dsh-our-free-model/docs/integration-guide.html"/>
+    <id>https://Shijiuwei.github.io/apex-dsh-our-free-model/docs/integration-guide.html</id>
+    <updated>2026-11-16T20:20:55.680210300+00:00</updated>
+    <summary>Practical integration guide for configuring apex-dsh-our-free-model across local and distributed environments.</summary>
+  </entry>
+  <entry>
+    <title>apex-dsh-our-free-model Technical Specifications</title>
+    <link href="https://Shijiuwei.github.io/apex-dsh-our-free-model/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/apex-dsh-our-free-model/docs/specifications.html</id>
+    <updated>2026-11-16T20:20:55.680210300+00:00</updated>
+    <summary>Operational contracts, configuration defaults, and interface guarantees for apex-dsh-our-free-model.</summary>
+  </entry>
+</feed>
